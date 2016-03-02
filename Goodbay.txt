@@ -1,2 +1,6 @@
-print("goodbye")
-rrint("Bye")
+
+print("goodbye;")
+rrint("Bye;")
+
+
+
